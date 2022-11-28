@@ -1,0 +1,6 @@
+{
+    "value": "123452345",
+    "msg": "must be 10 to 30",
+    "param": "password",
+    "location": "body"
+    }

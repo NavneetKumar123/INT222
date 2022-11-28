@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+.button{
+    width: 65px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.row{
+   margin:8px 0; 
+}
+.row input{
+    width: 290px;
+    font-size: 21px;
+margin: 0;
+padding: 10px 38px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+.sunt{
+    font-size: 23px;
+    padding: 20px;
+    margin: 2px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.drunt{
+background-color: antiquewhite;
+}
